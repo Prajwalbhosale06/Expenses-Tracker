@@ -1,0 +1,12 @@
+{
+    "expenses": [
+        {
+            "id": "12",
+            "category": "electronic",
+            "amount": 1000.0,
+            "date": "2026-10-12",
+            "description": "NA"
+        }
+    ],
+    "monthly_limit": 0.0
+}
